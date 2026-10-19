@@ -5,7 +5,7 @@ import ViewProduct from "@/app/components/view-product";
 import React from "react";
 
 const ActionProductId = ({ params }) => {
-  const { action, id } = params;
+  const { action, id } = React.use(params);
   switch (action) {
     case "add":
       return <AddProduct />;
