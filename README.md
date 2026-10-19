@@ -1,4 +1,4 @@
-# W8 - Integrasi CRUD Next.js dengan MongoDB
+# W9 - Integrasi CRUD Next.js dengan MongoDB
 
 Aplikasi CRUD (Create, Read, Update, Delete) sederhana berbasis Next.js 13 yang menyimpan data produk ke MongoDB Atlas menggunakan Mongoose. README ini adalah panduan langkah demi langkah untuk menjalankannya di komputer lokal.
 
