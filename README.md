@@ -32,12 +32,17 @@ Aplikasi CRUD (Create, Read, Update, Delete) sederhana berbasis Next.js 13 yang 
 
 ### A. Mengambil source code
 
-1. **Fork** repository https://github.com/hamsterprohans/simpleappcrud.git melalui GitHub.
+1. **Fork** repository https://github.com/hamsterprohans/simpleappcrud.git melalui tombol **Fork** di GitHub. Setelah selesai, kamu akan punya salinan repository di akun GitHub-mu sendiri dengan alamat:
+
+   ```
+   https://github.com/<username-github-kamu>/simpleappcrud.git
+   ```
+
 2. Buka **VS Code**.
-3. Clone repository:
+3. **Clone repository hasil fork-mu** (bukan repository asli milik `hamsterprohans`). Ganti `<username-github-kamu>` dengan username GitHub-mu:
 
    ```bash
-   git clone https://github.com/hamsterprohans/simpleappcrud.git
+   git clone https://github.com/<username-github-kamu>/simpleappcrud.git
    ```
 
 4. Masuk ke folder project:
